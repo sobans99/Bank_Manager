@@ -45,12 +45,12 @@
 <li>
 <strong>CurrentAccount</strong>: Derived class from <em>BankAccount</em> with additional functionality for overdraft facility.</li>
 </ul>
-<h2 id="sample-screenshots">Sample Screenshots</h2>
-<img src="main_menu.png" alt="Main Menu">
-<img src="create_savings_account.png" alt="Create Savings Account">
-<img src="create_current_account.png" alt="Create Current Account">
-<img src="access_account.png" alt="Access Account">
-<img src="account_operations.png" alt="Account Operations">
+<h2 id="sample-screenshots">Sample Screenshots</h2><br>
+<img src="main_menu.png" alt="Main Menu"><br>
+<img src="create_savings_account.png" alt="Create Savings Account"><br>
+<img src="create_current_account.png" alt="Create Current Account"><br>
+<img src="access_account.png" alt="Access Account"><br>
+<img src="account_operations.png" alt="Account Operations"><br>
 <h2 id="license">License</h2>
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to modify and use it for educational or personal purposes.</p>
 </div>
