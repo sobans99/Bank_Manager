@@ -1,5 +1,3 @@
-
-    <p>Sure! Below is a sample <code>README.md</code> file for the Banking Management System project:</p>
     <h1>Banking Management System</h1>
     <p>The Banking Management System is a C++ console application that simulates a simple banking system. It allows
         users to create savings and current accounts, perform various account operations such as deposit, withdraw,
