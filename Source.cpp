@@ -16,7 +16,6 @@ public:
 	BankAccount( string& number,  string& holderName,  string& accPassword)
 		: accountNumber(number), accountHolderName(holderName), balance(0.0), password(accPassword) {}
 
-	~BankAccount() {}
 
 	void displayBalance()  {
 		cout << "Account Balance: " << balance << endl;
@@ -78,8 +77,6 @@ class CurrentAccount : public BankAccount {
 public:
 	CurrentAccount( string& number,  string& holderName, const string& accPassword)
 		: BankAccount(number, holderName, accPassword) {}
-
-	~CurrentAccount() {}
 
 	void overdraft() {
 		cout << "Account is eligible for overdraft facility." << endl;
